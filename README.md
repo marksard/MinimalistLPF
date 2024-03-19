@@ -1,6 +1,6 @@
 # Minimalist LPF
 
-Eurorack 4HP Simple Lowpass filter using V2044A
+Eurorack 4HP Simple Lowpass filter using V2044A (4 pole ladder)
 
 ## Specification
 
@@ -8,8 +8,8 @@ Eurorack 4HP Simple Lowpass filter using V2044A
 
 |Use Voltage|Current consumption|
 |:--|:--|
-|+12V|-|
-|-12V|-|
+|+12V|9mA|
+|-12V|9mA|
 
 ### Input
 
