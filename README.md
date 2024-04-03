@@ -23,7 +23,7 @@ Eurorack 4HP Simple Lowpass filter using V2044A (4 pole ladder)
 
 |Name|Description|
 |:--|:--|
-|OUT|(AC Coupling OUT)|
+|OUT|AC Coupling|
 
 
 ### Controller
