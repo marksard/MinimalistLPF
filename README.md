@@ -16,14 +16,14 @@ Eurorack 4HP Simple Lowpass filter using V2044A (4 pole ladder)
 |Name|Description|
 |:--|:--|
 |IN||
-|CV1||
-|CV2||
+|CV1|Freq Modulation Depth 1|
+|CV2|Freq Modulation Depth 2|
 
 ### Output
 
 |Name|Description|
 |:--|:--|
-|OUT||
+|OUT|(AC Coupling OUT)|
 
 
 ### Controller
@@ -32,10 +32,11 @@ Eurorack 4HP Simple Lowpass filter using V2044A (4 pole ladder)
 |:--|:--|
 |Freq|Frequency|
 |Reso|Resonance|
-|CV1|CV1 Modulation Depth|
-|CV2|CV2 Modulation Depth|
+|CV1|Freq Modulation Depth 1|
+|CV2|Freq Modulation Depth 2|
 
 ## Image
+![img](https://marksard.github.io/assets/photos/20231214_IMGP8492.jpg)  
 
 
 ## Schematic
